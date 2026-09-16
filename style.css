@@ -10,7 +10,7 @@ form {
     background-color: hsl(194, 50%, 42%);
 
     padding: 20px;
-    margin: 30px auto;
+    margin: 10px auto;
 
     border: 1px solid #eeeeee;
     border-radius: 10px;
@@ -25,4 +25,9 @@ input {
     width: 100%;
     padding: 10px;
     margin-bottom: 20px;
+}
+
+button {
+    padding: 10px  20px;
+    cursor: pointer;
 }
